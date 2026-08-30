@@ -64,7 +64,7 @@ Backend service for tracking PlayStation Store data and automating price/content
 
 **Focus:** external APIs · parsing · asynchronous processing · persistence · automation
 
-[Repository](https://github.com/koalko101/ps-store-tracker)
+[Repository](https://github.com/koalko101/ps_store_tracker)
 
 ---
 
