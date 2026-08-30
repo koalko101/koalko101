@@ -64,7 +64,7 @@ Backend service for tracking PlayStation Store data and automating price/content
 
 **Focus:** external APIs · parsing · asynchronous processing · persistence · automation
 
-[Repository](https://github.com/Koalko99/ps-store-tracker)
+[Repository](https://github.com/koalko101/ps-store-tracker)
 
 ---
 
@@ -83,7 +83,7 @@ Multithreaded Java implementation of the Fractal Flame algorithm based on Chaos 
 
 **Stack:** `Java` `Maven` `JUnit` `Concurrency`
 
-[Repository](https://github.com/Koalko99/fractal-flame)
+[Repository](https://github.com/koalko101/fractal-flame)
 
 ---
 
@@ -98,7 +98,7 @@ Java application for procedural maze generation and path finding.
 
 **Stack:** `Java` `Maven` `JUnit` `Docker`
 
-[Repository](https://github.com/Koalko99/labyrinths)
+[Repository](https://github.com/koalko101/labyrinths)
 
 ---
 
@@ -116,7 +116,7 @@ Asynchronous schedule parser and Telegram bot for students and teachers.
 
 **Stack:** `Python` `Aiogram` `BeautifulSoup` `SQLite` `AsyncIO`
 
-[Repository](https://github.com/Koalko99/isei-schedule)
+[Repository](https://github.com/koalko101/isei-schedule)
 
 ## GitHub Stats
 
